@@ -16,6 +16,5 @@
 [<img align="left" alt="Kenneth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kenneth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 [instagram]: https://www.instagram.com/Kenneth
 [linkedin]: [https://linkedin.com/in/Kenneth](https://www.linkedin.com/in/kenneth-words-597589141/)
